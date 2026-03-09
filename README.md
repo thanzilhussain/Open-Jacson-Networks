@@ -74,7 +74,7 @@ print("--------------------------------------------------------------")
 
 ## Output
 
-<img width="1008" height="433" alt="image" src="https://github.com/user-attachments/assets/abc0dead-4aa0-4573-b341-0e3bae15c7f2" />
+<img width="779" height="441" alt="image" src="https://github.com/user-attachments/assets/92a09bf3-a64b-4903-9e76-d15cc6935ad2" />
 
 ## Result
 
